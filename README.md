@@ -14,5 +14,8 @@
 - Osorio Quiroz, Juan Sebastian
 
 ### Breve descripción del conjunto de datos
+
+La estructura de los datos del dataset corresponde a un total de 13 variables que describen todas las 1000 observaciones registradas. Las observaciones representan a usuarios de diferentes orígenes y si compran o no una bicicleta.
+
 ### Conclusiones
 ### Licencia de uso
