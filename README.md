@@ -30,5 +30,3 @@ Income, Children, Cars, Age
 - Entender las características de los clientes es vital para la toma de decisiones de la empresa.
 - Identificar la falta de datos de un data frame es vital para proceder con la limpieza y procesamiento.
 - Los datos procesados y visualizados por los diagramas, brindan un mejor entendimiento de la data.
-
-### Licencia de uso
