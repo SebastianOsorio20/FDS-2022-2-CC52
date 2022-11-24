@@ -15,7 +15,13 @@
 
 ### Breve descripción del conjunto de datos
 
-La estructura de los datos del dataset corresponde a un total de 13 variables que describen todas las 1000 observaciones registradas. Las observaciones representan a usuarios de diferentes orígenes y si compran o no una bicicleta.
+La estructura de los datos del dataset corresponde a un total de 13 variables (9 categóricas y 4 numéricas) que describen todas las 1000 observaciones registradas. Las observaciones representan a usuarios de diferentes orígenes y si compran o no una bicicleta.
+
+Variables Catgóricas:
+ID, Marital Status, Gender, Education, Occupation, Home Owner, Commute Distance, Region, Purchased Bike
+
+*Variables Numéricas:*
+Income, Children, Cars, Age
 
 ### Conclusiones
 ### Licencia de uso
